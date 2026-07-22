@@ -1,0 +1,6 @@
+{
+  "name": "FounderOS",
+  "description": "The operating system for startup founders to make cold, rational decisions, challenge assumptions, analyze viability, and generate developer-ready specs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
